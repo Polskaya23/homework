@@ -1,0 +1,18 @@
+body{
+    background: greenyellow;
+}
+h1{
+    color: #ff00c8;
+}
+.title{
+    font-size: 50px;
+}
+[title="Registration - GREENSHOP-text"]
+{
+    letter-spacing: 5px;
+}
+
+
+input {
+    display: block;
+}
